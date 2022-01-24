@@ -11,3 +11,4 @@ Git commit;
 Sincronizar com o repositório online;
 Criar um arquivo README.md
 inicializar novo commit
+#novo commit
